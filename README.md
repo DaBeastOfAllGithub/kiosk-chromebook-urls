@@ -1,2 +1,2 @@
 # kiosk-chromebook-urls
-have many urls
+chrome://file-manager
